@@ -64,7 +64,7 @@ This project does not require any model training, as it contains a pre-trained m
 
 The `Results/` directory contains images that were generated using the pre-trained model. Here is an examples:
 
-![Result](https://github.com/ArnabKumarRoy02/Style-Transfer/blob/main/Results/shrek_spagetti.jpg)
+![Result](https://drive.google.com/file/d/1j9qRe9Z1kMmgwfsCnVTa2lnzl2zQkXcT/view?usp=share_link)
 <p align-content="center">
     <em>Style transfer on Shrek and spaghetti</em>
 </p>
